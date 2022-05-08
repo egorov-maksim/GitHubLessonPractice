@@ -1,0 +1,9 @@
+General information
+Project | Vadim Ksendsov Homework
+Type | Smoke
+Module | GitHub
+
+Preconditionals: be ready to work hard :)
+
+# of check   | Position |  Scenario    | Expected result | Notes | Actual Result | Bug ID | Comments 
+1         	QA Eng 	  Create file      File created     n/a     File created    n/a      Passed
